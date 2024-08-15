@@ -25,9 +25,9 @@
 - [デジタル推進委員](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/WUFEajA3OEZnTlJMSXRhd3NvU2g4dz09)
   - 取得年月: 2024年7月
 
-### Will　Can Must図
+### WillCanMustスキル図
 
-- [Will Canスキル図](https://www.figma.com/design/XakWfbhwCdLjqFqNmPtGaE/noma-Portfolio-open?node-id=5185-1684&t=8NIkTPocoxp0sbNQ-4)
+- [WillCanMustスキル図](https://www.figma.com/design/XakWfbhwCdLjqFqNmPtGaE/noma-Portfolio-open?node-id=5185-1684&t=8NIkTPocoxp0sbNQ-4)
 
 ### 記事投稿note
 
