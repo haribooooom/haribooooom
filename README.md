@@ -1,4 +1,4 @@
-## のまです、こんにちは:hedgehog:
+## のまです、こんにちは🦔
 
 ### 基本情報
 
@@ -8,6 +8,8 @@
 - 私の強みの一つは努力を積み重ねられることで、目標に向かい計画を立て実行します。プロダクトをよりよくするために、UIデザイン以外の知識も多く必要だと理解しています。
 - 基本品質としてのアクセシピリティを推進・啓蒙、資格取得をしたり、社外勉強会等で他社の開発者と交流し学んでいます。
 - リベラルアーツ、社会状況を知ることもプロダクトを作る上で必要だと思い情報収集等しています。
+
+### ドキュメント
 
 - [職務経歴書](https://github.com/haribooooom/noma-resume/edit/master/docs/README.md)
 - [ポートフォリオ](https://www.figma.com/proto/XakWfbhwCdLjqFqNmPtGaE/noma-Portfolio-open?page-id=3126%3A4902&node-id=5191-1987&viewport=-1875%2C8139%2C0.69&t=FwxSa6EydgAkWVD4-1&scaling=contain&content-scaling=fixed&starting-point-node-id=5191%3A1987) 
