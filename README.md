@@ -14,11 +14,7 @@
 
 ### 各種アカウント
 
-|　Twitter(X)　|　[haribooooom](https://x.com/haribooooom)　|
-|　note　|　[haribom](https://note.com/haribom”)　|
-|　Youtrust　|　[haribooooom](https://youtrust.jp/users/haribooooom”)　|
-|　Wantedly　|　[madoka_nozaki_e](https://www.wantedly.com/id/madoka_nozaki_e”)　|
-|　LinkedIn　|　[madoka-nozaki-23696b29b/](https://www.linkedin.com/in/madoka-nozaki-23696b29b/”)　|
+|　[Twitter(X)](https://x.com/haribooooom)　|　[note](https://note.com/haribom”)　|　[Youtrust](https://youtrust.jp/users/haribooooom”)　|　[Wantedly](https://www.wantedly.com/id/madoka_nozaki_e”)　|　[LinkedIn](https://www.linkedin.com/in/madoka-nozaki-23696b29b/”)　|
 
 ### 資格・証明
 
